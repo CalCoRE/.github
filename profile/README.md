@@ -6,6 +6,6 @@ We explore how **computing practices** (e.g., programming, data analysis and vis
 
 Check out our projects:
 
-![Rivulet icon](rivulet_utils/rivulet.png)
+![Rivulet icon](https://github.com/CalCoRE/rivulet-utils/blob/main/rivulet.png)
 
 To learn more, visit us at [corelab.berkeley.edu](https://corelab.berkeley.edu).
