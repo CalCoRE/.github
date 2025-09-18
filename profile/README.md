@@ -6,7 +6,7 @@ We explore how **computing practices** (e.g., programming, data analysis and vis
 
 Check out our current projects:
 
-* [Rivulet](https://github.com/CalCoRE/rivulet-utils) : Python notebook API utilities to curate & fetch pedagogical generative data
+* [Rivulet](https://github.com/CalCoRE/rivulet-utils) : Python notebook API utilities to curate & fetch pedagogically generative data
 * [DSE-citan](https://github.com/CalCoRE/dse-citan) : A citation analysis of "Data Science Education" literature
 * [How to Choosy](https://github.com/CalCoRE/how-to-choosy) : Tools and strategies to wrangle "Goldilocks" datasets
 
