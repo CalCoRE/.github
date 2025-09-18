@@ -3,7 +3,8 @@
 name: Clean Notebooks
 
 # This action runs on every push to any branch
-on: [push]
+on: 
+  workflow_call:
 
 jobs:
   clean-notebooks:
