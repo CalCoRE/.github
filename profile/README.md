@@ -9,5 +9,6 @@ Check out our current projects:
 * [Rivulet](https://github.com/CalCoRE/rivulet-utils) : Python notebook API utilities to curate & fetch pedagogically generative data
 * [DSE-citan](https://github.com/CalCoRE/dse-citan) : A citation analysis of "Data Science Education" literature
 * [How to Choosy](https://github.com/CalCoRE/how-to-choosy) : Tools and strategies to wrangle "Goldilocks" datasets
+* [Show Your Work](https://github.com/CalCoRE/show-your-work) : An intro to computational notebooks for K-12 teachers
 
 To learn more, visit us at [corelab.berkeley.edu](https://corelab.berkeley.edu).
