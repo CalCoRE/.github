@@ -11,7 +11,9 @@ Check out our current projects:
 
 Some resources for educators and researchers include:
 
-* [DSE-citan](https://github.com/CalCoRE/dse-citan) : A citation analysis of "Data Science Education" literature (see [Mapping the Conceptual Landscape(s) of Data Science Education](https://hdsr.mitpress.mit.edu/pub/1vd80i9t/release/3) in *Harvard Data Science Review*).
-* [How to Choosy](https://github.com/CalCoRE/how-to-choosy) : Tools and strategies to wrangle "Goldilocks" datasets (see [How to be Choosy: Wrangling Big Datasets for the Classroom](https://onlinelibrary.wiley.com/doi/10.1111/test.70022) in *Teaching Statistics*.
+* [DSE-citan](https://github.com/CalCoRE/dse-citan) : A citation analysis of "Data Science Education" literature
+  * For more information, see [Mapping the Conceptual Landscape(s) of Data Science Education](https://hdsr.mitpress.mit.edu/pub/1vd80i9t/release/3) in *Harvard Data Science Review*).
+* [How to Choosy](https://github.com/CalCoRE/how-to-choosy) : Tools and strategies to wrangle "Goldilocks" datasets
+  * For more information, see [How to be Choosy: Wrangling Big Datasets for the Classroom](https://onlinelibrary.wiley.com/doi/10.1111/test.70022) in *Teaching Statistics*.
 
 To learn more, visit us at [corelab.berkeley.edu](https://corelab.berkeley.edu).
