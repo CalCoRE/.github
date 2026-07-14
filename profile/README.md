@@ -1,6 +1,6 @@
 # CoRE Lab
 
-“CoRE” stands for Computing, Reasoning, and Expression. 
+“CoRE” stands for Computing, Reasoning, and Expression. We're a research lab in the School of Education at UC Berkeley.
 
 We explore how **computing practices** (e.g., programming, data analysis and visualization, computer simulation, GIS mapping) are changing the ways that young people learn and communicate about our world.
 
